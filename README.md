@@ -1,5 +1,5 @@
 Thrust Curve Reconstruction Tool
-Akul [LastName] — Aerospace Engineering, Texas A&M University
+Akul Nagalikar — Aerospace Engineering, Texas A&M University
 A load-cell based thrust measurement system built on Raspberry Pi that captures real-time thrust data from commercial model rocket motors and reconstructs their thrust curves using Python signal processing. Results are validated against manufacturer published data from thrustcurve.org.
 What this project does:
 
